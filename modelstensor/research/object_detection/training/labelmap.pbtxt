@@ -1,0 +1,14 @@
+item{
+	id: 1
+	name: 'jerawat'
+}
+
+item{
+	id: 2
+	name: 'bekas'
+}
+
+item{
+	id: 3
+	name: 'pus'
+}
